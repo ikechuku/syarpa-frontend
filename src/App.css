@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+
+--unnamed-color-414042: #414042;
+--unnamed-color-102181: #102181;
+--unnamed-color-ffffff: #FFFFFF;
+--unnamed-color-ff276a: #FF276A;
+--unnamed-color-2033a0: #2033A0;
+--unnamed-color-e5e9f2: #E5E9F2;
+--unnamed-color-9da8b6: #9DA8B6;
+--unnamed-color-c0ccda: #C0CCDA;
+--unnamed-color-ff8c19: #FF8C19;
+--unnamed-color-f9fafc: #F9FAFC;
+--unnamed-color-323643: #323643;
+--unnamed-color-60c741: #60C741;
+--unnamed-color-ff538d: #FF538D;
+--unnamed-color-00b3f5: #00B3F5;
+--unnamed-color-a6b1f5: #A6B1F5;
+--unnamed-color-fff3e7: #FFF3E7;
+--unnamed-color-edfaeb: #EDFAEB;
+--unnamed-color-eff2f7: #EFF2F7;
+--unnamed-color-e1f8ff: #E1F8FF;
+--unnamed-color-35edd1: #35EDD1;
+--unnamed-color-e7fefa: #E7FEFA;
+--unnamed-color-ebebec: #EBEBEC;
+--unnamed-color-032041: #032041;
+--unnamed-color-3646aa: #3646AA;
+--unnamed-color-797ec6: #797EC6;
+--unnamed-color-f6ecfc: #F6ECFC;
+--unnamed-color-ff7fb1: #FF7FB1;
+--unnamed-color-ffedf6: #FFEDF6;
+--unnamed-color-d3dce6: #D3DCE6;
+--unnamed-color-e0e6ed: #E0E6ED;
+
+
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
